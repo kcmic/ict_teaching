@@ -1,0 +1,23 @@
+
+.container{
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+}
+
+.row{
+	padding: 10px;
+}
+
+.btn{
+	width:20%;
+}
+
+/*#message{
+	display: none;
+}*/
+
+h1{
+	padding-bottom: 10px;
+}
+
