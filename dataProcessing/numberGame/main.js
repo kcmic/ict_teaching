@@ -4,7 +4,7 @@ $('#message').hide();
 
 
 $('#btnHandIn').click(function(){
-
+	var result = true;
 	//checking
 	for (var i=0;i<correctAns.length;i++){
 		console.log(correctAns[i]);
